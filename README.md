@@ -8,15 +8,15 @@ I have a degree in Business Administration (2018) and i am currently studying An
 
 ⚡ I know about:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,git,github)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=html,css,git,github)
 
 ⚡ Im learning about:
 
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,bootstrap)](https://skillicons.dev)          
+![My Skills](https://skillicons.dev/icons?i=js,nodejs,bootstrap)       
 
 ⚡ I will learn about:
 
-[![My Skills](https://skillicons.dev/icons?i=python,mysql)](https://skillicons.dev) 
+![My Skills](https://skillicons.dev/icons?i=python,mysql)
 
 ✨ And the sky is the limit!
 
