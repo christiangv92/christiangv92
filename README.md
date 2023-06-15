@@ -18,7 +18,7 @@ I have a degree in Business Administration (2018) and i am currently studying An
 
 [![My Skills](https://skillicons.dev/icons?i=python,mysql)](https://skillicons.dev) 
 
-And the sky is the limit!✨
+✨ And the sky is the limit!
 
 <div>
 <a href="https://github.com/christiangv92">
@@ -30,5 +30,5 @@ Contact me:
 
 <div>
 <a href = "mailto:christian.veiga92@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/christian.veiga92" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://www.linkedin.com/in/christianveiga/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
