@@ -12,7 +12,7 @@ I have a degree in Business Administration (2018) and i am currently studying An
 
 ⚡ Im learning about:
 
-![My Skills](https://skillicons.dev/icons?i=js,nodejs,bootstrap)       
+![My Skills](https://skillicons.dev/icons?i=js,nodejs,react,bootstrap)       
 
 ⚡ I will learn about:
 
