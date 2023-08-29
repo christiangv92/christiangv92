@@ -8,7 +8,7 @@ I have a degree in Business Administration and i am currently studying Analysis 
 
 ⚡ Im learning about:
 
-![My Skills](https://skillicons.dev/icons?i=js,nodejs,react,bootstrap,php,laravel,mysql)
+![My Skills](https://skillicons.dev/icons?i=nodejs,react,php,laravel,mysql,java)
 
 <div>
 <a href="https://github.com/christiangv92">
