@@ -14,8 +14,6 @@ I have a degree in Business Administration (2018) and i am currently studying An
 
 ![My Skills](https://skillicons.dev/icons?i=js,nodejs,react,bootstrap,php,laravel,mysql)
 
-✨ And the sky is the limit!
-
 <div>
 <a href="https://github.com/christiangv92">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christiangv92&layout=compact&langs_count=7&theme=dracula"/>
