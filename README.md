@@ -2,6 +2,8 @@
 
 Welcome to my GitHub profile.
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome,+my+name+is+Christian+Veiga;Second+line+of+text)](https://git.io/typing-svg)
+
 My name is Christian Veiga, nice to meet you!
 
 I have a degree in Business Administration (2018) and i am currently studying Analysis and Systems Development (since 2022).
