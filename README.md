@@ -1,14 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello!;Welcome+to+my+GitHub+profile!;My+name+is+Christian+Veiga%2C)](https://git.io/typing-svg)
 
-I have a degree in Business Administration and i am currently studying Analysis and Systems Development.
+I have a degree in Business Administration and i am currently doing Analysis and Systems Development.
 
-⚡ I know about:
+⚡ My Skills:
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,git,github)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,git)
 
-⚡ Im learning about:
-
-![My Skills](https://skillicons.dev/icons?i=nodejs,react,php,laravel,mysql,java)
 
 <div>
 <a href="https://github.com/christiangv92">
